@@ -1,0 +1,33 @@
+{
+  "name": "Dutch Keyboard",
+  "description": "Dutch Keyboard",
+  "type": "privileged",
+  "role": "input",
+  "launch_path": "/settings.html",
+  "developer": {
+    "name": "The Gaia Team",
+    "url": "https://github.com/mozilla-b2g/gaia"
+  },
+  "permissions": {
+    "input": {}
+  },
+  "inputs": {
+    "nl": {
+      "launch_path": "/index.html#nl",
+      "name": "Nederlands",
+      "description": "Nederlands",
+      "types": ["text", "url", "email"]
+    }
+  },
+  "locales": {
+    "en-US": {
+      "name": "Dutch Keyboard",
+      "description": "Dutch Keyboard"
+    },
+    "nl": {
+      "name": "Nederlands toetsenbord",
+      "description": "Nederlands toetsenbord"
+    }
+  },
+  "default_locale": "en-US"
+}
