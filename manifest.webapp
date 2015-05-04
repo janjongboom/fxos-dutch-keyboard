@@ -29,5 +29,13 @@
       "description": "Nederlands toetsenbord"
     }
   },
+  "icons": {
+    "84": "/icons/keyboard_84.png",
+    "126": "/icons/keyboard_126.png",
+    "128": "/icons/keyboard_126.png",
+    "142": "/icons/keyboard_142.png",
+    "189": "/icons/keyboard_189.png",
+    "284": "/icons/keyboard_284.png"
+  },
   "default_locale": "en-US"
 }
